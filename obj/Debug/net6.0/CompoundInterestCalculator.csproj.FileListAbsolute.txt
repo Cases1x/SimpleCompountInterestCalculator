@@ -1,0 +1,15 @@
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\bin\Debug\net6.0\CompoundInterestCalculator.exe
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\bin\Debug\net6.0\CompoundInterestCalculator.deps.json
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\bin\Debug\net6.0\CompoundInterestCalculator.runtimeconfig.json
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\bin\Debug\net6.0\CompoundInterestCalculator.dll
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\bin\Debug\net6.0\CompoundInterestCalculator.pdb
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.csproj.AssemblyReference.cache
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.AssemblyInfoInputs.cache
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.AssemblyInfo.cs
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.dll
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\refint\CompoundInterestCalculator.dll
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.pdb
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\CompoundInterestCalculator.genruntimeconfig.cache
+C:\Users\Caseu\Programming\Mini Projects\CompoundInterestCalculator\src\CompoundInterestCalculator\obj\Debug\net6.0\ref\CompoundInterestCalculator.dll
